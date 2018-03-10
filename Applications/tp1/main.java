@@ -1,4 +1,12 @@
-package net.cofares.opentraining.priseenmain;
+/**
+ *
+ * @package  Accov TP1
+ * @src main_tp1
+ * @version  1.0
+ * @developer  Maroun Melhem <http://maroun.me>
+ *
+ */
+package tp1;
 
 public class Data {
 
