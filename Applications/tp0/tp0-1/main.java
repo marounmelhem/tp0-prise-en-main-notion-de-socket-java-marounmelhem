@@ -1,14 +1,14 @@
 /**
  *
- * @package  Accov TP1
- * @src main_tp1
+ * @package  Accov tp0-1
+ * @src main_tp0-1
  * @version  1.0
  * @developer  Maroun Melhem <http://maroun.me>
  *
  */
-package tp1;
+package tp0-1;
 
-public class Data {
+public class main {
 
     /**
      * Id de la data (obligatoire)

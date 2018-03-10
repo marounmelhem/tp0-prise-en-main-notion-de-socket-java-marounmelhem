@@ -1,12 +1,12 @@
 /**
  *
- * @package  Accov TP2
- * @src tcp_client
+ * @package  Accov tp0-2
+ * @src tp0-2_tcp_client
  * @version  1.0
  * @developer  Maroun Melhem <http://maroun.me>
  *
  */
-package tp2;
+package tp0-2;
 
 import java.io.BufferedReader;
 import java.io.IOException;

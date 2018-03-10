@@ -1,18 +1,14 @@
 /**
  *
- * @package  Accov TP2
- * @src main_tp2
+ * @package  Accov tp0-2
+ * @src main_tp0-2
  * @version  1.0
  * @developer  Maroun Melhem <http://maroun.me>
  *
  */
-package tp2;
+package tp0-2;
 
-/**
- *
- * @author Lenovo
- */
-public class tp2 {
+public class main {
 
     /**
      * @param args the command line arguments
